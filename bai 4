@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main() 
+    char ch;
+
+    cout << "Nhap mot ki tu: ";
+    cin >> ch;
+
+    cout << "Ki tu ban vua nhap la: " << ch << endl;
+
+    return 0;
+}
